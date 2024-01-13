@@ -6,13 +6,14 @@
    position: absolute;
     width:1350px; 
     height:425px;
-    filter:contrast(60%);
+    filter:contrast(80%);
+    filter:brightness(50%);
     
  }
    h1
  { 
    position:relative;
-    color: #000000;
+    color: #ffffff;
     padding:250px 0px 0px 390px ;
     }
 
