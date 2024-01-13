@@ -1,0 +1,112 @@
+
+.cointainer{
+   display: inline-block;
+}
+ .main{
+   position: absolute;
+    width:1350px; 
+    height:425px;
+    
+ }
+   h1
+ { 
+   position:relative;
+    color: #fffefe;
+    padding:250px 0px 0px 390px ;
+    }
+
+   h2
+ { margin-top: 70px;
+   margin-left: 450px;
+    color: #040404;
+    position: static;
+ }
+
+ .logo{
+   font-size: 50px;
+   position:relative;
+    color: rgb(247, 250, 250);
+ }
+
+ .nav_bar{
+   margin-left: 780px;
+   padding: 20px 15px 15px 25px;
+   position:relative;
+   color: #f5efef;
+    }
+
+/* * * * * * * * * * * * * * * * * * * * * */
+/* * * * * * * M E N U  P A G E* * * * * * */
+
+ .menu
+ {
+  background-color: #ffffff;
+ }
+   .desc
+   {
+       display:inline-block;
+       padding-bottom: 55px;
+       margin: 15px;
+       border-top-left-radius:2px ;
+       border-top-right-radius:2px ;
+    
+       /*1. right 2.bottom 3.allside soft 4. all side broad*/
+       height: 320px;
+       width: 350px;
+       padding-top: 15px;
+       
+      /* opacity: 1;*/
+   }
+
+   .desc:hover
+{
+    box-shadow: 5px 5px 5px 5px gray;
+}
+
+   .imgrd
+{
+    border-radius: 10px;
+    display: flex;
+    /* Adjust the spacing between images using margin */
+    margin:20px;
+    position: absolute;
+    border-color: #040404; 
+    border: 4px solid #333;
+}
+
+.imgdiv{
+  padding-left: 6px;
+  position: relative;
+  margin: 25px 5px 5px 20px;
+  border-color: #040404;
+  border: 1px solid #333;
+  margin-right: 20px;
+} 
+
+.head{
+  position: absolute;
+  text-align: center;
+  color:#040404;
+  margin: 0px 0px 25px 155px;
+
+}
+
+.price{
+  position: absolute;
+  margin: 345px 0px 0px 140px;
+  color: #ffffff;
+  background-color: rgb(6, 6, 6);
+  font-size: 20px;
+}
+
+.footer {
+  background-color: #cd2a2a;
+  color: #fff;
+  text-align: center;
+  padding: 50px;
+  top:12px;
+  bottom: 0;
+  width: 100%;
+}
+
+
